@@ -163,8 +163,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙋 Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: (https://www.linkedin.com/in/aparajita-sarkar-b429b760/)
+- GitHub: [github.com/yourusername](https://github.com/Aparajitas-UWindsor)
 
 ---
 
